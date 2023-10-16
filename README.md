@@ -1,4 +1,4 @@
-<div>	
+<div align="center">	
 <h1>### Olá, me chamo Matheus, sou um desenvolvedor frontend 👋</h1>
 </div>
 
